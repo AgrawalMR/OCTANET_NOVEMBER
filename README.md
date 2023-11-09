@@ -1,3 +1,3 @@
 Octanet Internship Task 1
 
-Check out website at "https://sayyestoadventure.netlify.app/"
+Check out the website at 'https://sayyestoadventure.netlify.app/'.
